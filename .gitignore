@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.mp4
+output/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
